@@ -2,13 +2,6 @@
 
 A simple e-commerce Flutter application for purchasing medicines online. The app provides users with an intuitive interface to browse, search, and order medications seamlessly.
 
-## 📱 Preview
-
-
-https://github.com/user-attachments/assets/ea1de70e-78ad-41cd-9ad6-3a715d31f065
-
-
-
 ## 🛍️ Features
 
 - Browse a wide range of medicines
